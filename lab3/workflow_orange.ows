@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scheme version="2.0" title="Eksploracja i wizualizacja danych - Orange - Lab 3" description="Potok wczytujący dane, filtrujący kolumny oraz wizualizujący rozkłady i wykres punktowy.">
+  <nodes>
+    <node id="0" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="File (relative_risks_cleaned.csv)" position="(80.0, 150.0)" />
+    <node id="1" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectColumns" project_name="Orange3" version="" title="Select Columns" position="(220.0, 150.0)" />
+    <node id="2" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table" position="(380.0, 80.0)" />
+    <node id="3" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="Distributions (Histogram)" position="(380.0, 150.0)" />
+    <node id="4" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="Scatter Plot" position="(380.0, 220.0)" />
+  </nodes>
+  <links>
+    <link enabled="true" id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" />
+    <link enabled="true" id="1" source_node_id="1" sink_node_id="2" source_channel="Data" sink_channel="Data" />
+    <link enabled="true" id="2" source_node_id="1" sink_node_id="3" source_channel="Data" sink_channel="Data" />
+    <link enabled="true" id="3" source_node_id="1" sink_node_id="4" source_channel="Data" sink_channel="Data" />
+  </links>
+  <data_settings>
+    <setting id="0" name="filename" value="relative_risks_cleaned.csv" />
+  </data_settings>
+</scheme>
