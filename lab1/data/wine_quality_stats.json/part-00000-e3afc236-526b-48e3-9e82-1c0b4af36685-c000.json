@@ -1,0 +1,13 @@
+{"type":"red","quality":3,"avg_alcohol":9.955000000000002,"avg_volatile_acidity":0.8845000000000001,"avg_pH":3.3979999999999997,"avg_residual_sugar":2.6350000000000002,"count":10}
+{"type":"red","quality":4,"avg_alcohol":10.265094339622639,"avg_volatile_acidity":0.6939622641509429,"avg_pH":3.381509433962264,"avg_residual_sugar":2.69433962264151,"count":53}
+{"type":"red","quality":5,"avg_alcohol":9.899706314243753,"avg_volatile_acidity":0.5770411160058732,"avg_pH":3.3049486049926546,"avg_residual_sugar":2.528854625550658,"count":681}
+{"type":"red","quality":6,"avg_alcohol":10.629519331243463,"avg_volatile_acidity":0.49748432601880965,"avg_pH":3.3180721003134837,"avg_residual_sugar":2.477194357366772,"count":638}
+{"type":"red","quality":7,"avg_alcohol":11.465912897822443,"avg_volatile_acidity":0.4039195979899498,"avg_pH":3.290753768844219,"avg_residual_sugar":2.7206030150753793,"count":199}
+{"type":"red","quality":8,"avg_alcohol":12.094444444444443,"avg_volatile_acidity":0.4233333333333334,"avg_pH":3.2672222222222214,"avg_residual_sugar":2.5777777777777775,"count":18}
+{"type":"white","quality":3,"avg_alcohol":10.345,"avg_volatile_acidity":0.3332500000000001,"avg_pH":3.1874999999999996,"avg_residual_sugar":6.392499999999999,"count":20}
+{"type":"white","quality":4,"avg_alcohol":10.15245398773007,"avg_volatile_acidity":0.381226993865031,"avg_pH":3.1828834355828244,"avg_residual_sugar":4.628220858895707,"count":163}
+{"type":"white","quality":5,"avg_alcohol":9.808840082361009,"avg_volatile_acidity":0.30201098146877126,"avg_pH":3.168833218943034,"avg_residual_sugar":7.3349691146190725,"count":1457}
+{"type":"white","quality":6,"avg_alcohol":10.575371549893866,"avg_volatile_acidity":0.2605641492265695,"avg_pH":3.1885987261146482,"avg_residual_sugar":6.4416060054595095,"count":2198}
+{"type":"white","quality":7,"avg_alcohol":11.367935606060604,"avg_volatile_acidity":0.26276704545454554,"avg_pH":3.2138977272727316,"avg_residual_sugar":5.186477272727271,"count":880}
+{"type":"white","quality":8,"avg_alcohol":11.636000000000003,"avg_volatile_acidity":0.27739999999999976,"avg_pH":3.2186857142857175,"avg_residual_sugar":5.671428571428572,"count":175}
+{"type":"white","quality":9,"avg_alcohol":12.18,"avg_volatile_acidity":0.298,"avg_pH":3.308,"avg_residual_sugar":4.119999999999999,"count":5}
